@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a senior student @HIT and also an incoming Master @HIT, a member of the SCIR LA.
+I am a senior BS @HIT and also an incoming MS @HIT, a member of the SCIR LA.
 
 I used to be an intern at Westlake University.
 
