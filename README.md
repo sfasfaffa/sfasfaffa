@@ -5,7 +5,7 @@ My current research interests focus RL4LLM. I have research experience in Safe R
 
 **Intern:**
 
-WestlakeU (2023.12-2024.10)
+WestlakeU (2023.12-2024.9)
 
 Du Xiaoman Financial (2024.1-)
 
