@@ -6,6 +6,7 @@ My current research interests focus on the combination of LLM and RL. I have res
 *Intern:*
 
 WestlakeU
+
 Du Xiaoman Financial
 
 *Publication:*
@@ -15,4 +16,5 @@ Du Xiaoman Financial
 *Email:*
 
 pengdengyun@qq.com
+
 dypeng@ir.hit.edu.cn
