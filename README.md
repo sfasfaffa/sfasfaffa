@@ -11,7 +11,7 @@ Du Xiaoman Financial
 
 **Publication:**
 
-（ICML2024, seconed author）Reinformer: Max-Return Sequence Modeling for Offline RL(https://proceedings.mlr.press/v235/zhuang24b.html)
+（ICML2024, seconed author）Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
 
 **Email:**
 
