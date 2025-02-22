@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Dengyun Peng, a senior **BS @HIT** and also an incoming **MS @HIT**, a member of the **SCIR LA**.
-My current research interests focus on **RL4LLM**,**LLM reasoning**. I have research experience in **Safe RL** and **Offline RL**.
+My current research interests focus on **RL4LLM**, **LLM reasoning**. I have research experience in **Safe RL** and **Offline RL**.
 
 **Intern:**
 
