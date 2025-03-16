@@ -11,13 +11,11 @@ Du Xiaoman Financial (2024.1-)
 
 <H1>Publication:</H1>
 
-（ICML2024, seconed author）Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
+(ICML2024, seconed author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
 
-<H2>PrePrint</H2>
+(PrePrint, Fourth Author) Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models (https://arxiv.org/abs/2503.09567)
 
-(Fourth Author) Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models (https://arxiv.org/abs/2503.09567)
-
-(Fourth Author) ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model (https://arxiv.org/abs/2502.03325)
+(PrePrint, Fourth Author) ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model (https://arxiv.org/abs/2502.03325)
 
 <H1>Email:</H1>
 
