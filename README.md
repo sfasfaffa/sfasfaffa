@@ -11,7 +11,7 @@ Du Xiaoman Financial (2024.1-)
 
 <H1>Publication:</H1>
 
-(ICML2024, seconed author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
+(ICML2024, second author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
 
 (Preprint, Fourth Author) Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models (https://arxiv.org/abs/2503.09567)
 
