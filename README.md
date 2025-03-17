@@ -19,6 +19,7 @@ Du Xiaoman Financial (2024.1-)
 
 <H1>Email:</H1>
 
+dypeng@ir.hit.edu.cn
+
 pengdengyun@qq.com
 
-dypeng@ir.hit.edu.cn
