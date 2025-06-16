@@ -1,13 +1,14 @@
 <H1>Hi there 👋</H1>
 
 I am Dengyun Peng, a senior **BS @HIT** and also an incoming **MS @HIT**, a member of the **SCIR LA**.
+I am currently under the supervision of Professor Wanxiang Che and Ph.D. candidate Qiguang Chen.
 My current research interests focus on **RL4LLM**, **LLM reasoning**. I have research experience in **Safe RL** and **Offline RL**.
 
 <H1>Intern:</H1>
 
 WestlakeU (2023.12-2024.9)
 
-Du Xiaoman Financial (2024.1-)
+Du Xiaoman Financial (2024.1-2024.2)
 
 <H1>Publication:</H1>
 
@@ -23,3 +24,6 @@ dypeng@ir.hit.edu.cn
 
 pengdengyun@qq.com
 
+<H1>Google scholar</H1>
+
+https://scholar.google.com.hk/citations?user=XtG_SxwAAAAJ&hl=zh-CN
