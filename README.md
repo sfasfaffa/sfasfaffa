@@ -14,6 +14,8 @@ Du Xiaoman Financial (2024.1-2024.2)
 
 (EMNLP2025 Findings, co-First author) DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective (https://arxiv.org/abs/2503.13413)
 
+(NIPS2025, co-First author) Boundary-to-Region Supervision for Offline Safe Reinforcement Learning (arxiv coming soon)
+
 (ICML2024, Second author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
 
 (Preprint, Fourth Author) Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models (https://arxiv.org/abs/2503.09567)
