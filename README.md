@@ -1,6 +1,6 @@
 <H1>Hi there 👋</H1>
 
-I am Dengyun Peng, an incoming **MS @HIT**, a member of the **SCIR LA**.
+I am Dengyun Peng, a **first-year Master's student** at **HIT** and a member of the **SCIR LA**.
 I am currently under the supervision of Professor Wanxiang Che, Professor Libo Qin and Ph.D. candidate Qiguang Chen.
 My current research interests focus on **RL4LLM**, **LLM reasoning**. I have research experience in **Safe RL** and **Offline RL**.
 
@@ -14,7 +14,7 @@ Du Xiaoman Financial (2024.1-2024.2)
 
 (EMNLP2025 Findings, Co-First author) DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective (https://arxiv.org/abs/2503.13413)
 
-(NIPS2025, Co-First author) Boundary-to-Region Supervision for Offline Safe Reinforcement Learning (arxiv coming soon)
+(NIPS2025, Co-First author) Boundary-to-Region Supervision for Offline Safe Reinforcement Learning (https://nips.cc/virtual/2025/poster/115428)
 
 (ICML2024, Second author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
 
