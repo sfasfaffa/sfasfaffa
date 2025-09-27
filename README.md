@@ -6,10 +6,15 @@ My current research interests focus on **RL4LLM**, **LLM reasoning**. I have res
 
 <H1>Intern:</H1>
 
-WestlakeU (2023.12-2024.9)
+- **iFLYTEK** (Hefei)
+  - _Research Intern_, September 2025 – Present
 
-Du Xiaoman Financial (2024.1-2024.2)
-
+- **Du Xiaoman Financial** (Beijing)
+  - _Research Intern_, January 2024 – February 2024
+ 
+- **Westlake University** (Hangzhou)
+  - _Research Intern_, December 2023 – September 2024
+    
 <H1>Publication:</H1>
 
 (EMNLP2025 Findings, Co-First author) DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective (https://arxiv.org/abs/2503.13413)
