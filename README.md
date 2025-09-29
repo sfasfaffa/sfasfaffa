@@ -10,7 +10,7 @@ My current research interests focus on **RL4LLM**, **LLM reasoning**. I have res
   - _Research Intern_, September 2025 – Present
 
 - **Du Xiaoman Financial** (Beijing)
-  - _Research Intern_, January 2024 – February 2024
+  - _Research Intern_, January 2025 – February 2025
  
 - **Westlake University** (Hangzhou)
   - _Research Intern_, December 2023 – September 2024
