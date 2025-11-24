@@ -21,6 +21,8 @@ My current research interests focus on **RL4LLM**, **LLM reasoning**. I have res
 
 (NIPS2025, Co-First author) Boundary-to-Region Supervision for Offline Safe Reinforcement Learning (https://nips.cc/virtual/2025/poster/115428)
 
+(AAAI2026, Co-First author)Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models (https://arxiv.org/abs/2508.11582)
+
 (ICML2024, Second author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
 
 (SCIENCE CHINA Information Sciences, Fourth Author) Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models (https://arxiv.org/abs/2503.09567)
