@@ -1,7 +1,7 @@
 <H1>Hi there 👋</H1>
 
 I am Dengyun Peng, a **first-year Master's student** at **HIT** and a member of the **SCIR LA**.
-I am currently under the supervision of Professor Wanxiang Che, Professor Libo Qin and Ph.D. candidate Qiguang Chen.
+I am currently under the supervision of Professor Wanxiang Che and Ph.D. candidate Qiguang Chen.
 My current research interests focus on **RL4LLM**, **LLM reasoning**. I have research experience in **Safe RL** and **Offline RL**.
 
 <H1>Intern:</H1>
