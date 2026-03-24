@@ -6,9 +6,6 @@ My current research interests focus on **RL4LLM**, **LLM reasoning**. I have res
 
 <H1>Intern:</H1>
 
-- **iFLYTEK** (Hefei)
-  - _Research Intern_, September 2025 – Present
-
 - **Du Xiaoman Financial** (Beijing)
   - _Research Intern_, January 2025 – February 2025
  
