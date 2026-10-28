@@ -25,12 +25,6 @@ My current research interests focus on **Agentic RL**.
 
 (AAAI2026, Co-First author) Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models (https://arxiv.org/abs/2508.11582)
 
-(ICML2024, Second author) Reinformer: Max-Return Sequence Modeling for Offline RL (https://proceedings.mlr.press/v235/zhuang24b.html)
-
-(SCIENCE CHINA Information Sciences, Fourth Author) Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models (https://arxiv.org/abs/2503.09567)
-
-(Preprint, Fourth Author) ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model (https://arxiv.org/abs/2502.03325)
-
 <H1>Email:</H1>
 
 dypeng@ir.hit.edu.cn
