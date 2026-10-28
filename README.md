@@ -1,10 +1,13 @@
 <H1>Hi there 👋</H1>
 
-I am Dengyun Peng, a **first-year Master's student** at **HIT** and a member of the **SCIR LA**.
+I am Dengyun Peng, a **second-year Master's student** at **HIT** and a member of the **SCIR LA**.
 I am currently under the supervision of Professor Wanxiang Che and Ph.D. candidate Qiguang Chen.
-My current research interests focus on **RL4LLM**, **LLM reasoning**. I have research experience in **Safe RL** and **Offline RL**.
+My current research interests focus on **Agentic RL**.
 
 <H1>Intern:</H1>
+
+- **Ant Group** (Hangzhou)
+  - _Research Intern_, May 2026 – Now
 
 - **Du Xiaoman Financial** (Beijing)
   - _Research Intern_, January 2025 – February 2025
@@ -14,7 +17,7 @@ My current research interests focus on **RL4LLM**, **LLM reasoning**. I have res
     
 <H1>Publication:</H1>
 
-(Preprint, Co-First author) Learning the Boundary of Solvability: Aligning LLMs to Detect Unsolvable Problems (https://arxiv.org/abs/2512.01661)
+(EMNLP2026 Findings, Co-First author) Learning the Boundary of Solvability: Aligning LLMs to Detect Unsolvable Problems (https://arxiv.org/abs/2512.01661)
 
 (EMNLP2025 Findings, Co-First author) DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective (https://arxiv.org/abs/2503.13413)
 
